@@ -1,0 +1,4 @@
+package com.practice.microservices.currencyexchangeservice;
+
+public class CurrencyExchange {
+}
